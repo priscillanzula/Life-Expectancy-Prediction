@@ -1,0 +1,55 @@
+--- LIFE EXPECTANCY PREDICTION REPORT ---
+
+SDG Problem Addressed:
+This project addresses UN Sustainable Development Goal 3 (Good Health and Well-being) by developing a machine learning model to predict life expectancy based on key health indicators. The model helps policymakers identify which health factors most significantly impact life expectancy, enabling better resource allocation and targeted healthcare interventions in developing nations.
+
+ML Approaches Used:
+1. Data Preparation:
+   - Handled missing values using median imputation
+   - Encoded categorical variables (Status)
+   - Standardized numerical features
+   - Removed duplicates and cleaned column names
+
+2. Models Implemented:
+   - Random Forest Regressor
+   - Gradient Boosting Regressor
+   - Linear Regression
+   - Ridge Regression
+   - Decision Tree Regressor
+   - SVR (Support Vector Regression)
+
+3. Feature Importance Analysis:
+   - Used Random Forest to identify most influential health indicators
+   - Key features included Adult Mortality, HIV/AIDS, Income Composition, and Schooling
+
+4. Evaluation Metrics:
+   - Cross-validation for robust performance assessment
+
+Results:
+- Random Forest achieved best performance with R2 score of 0.85
+- Top predictive features:
+  1. Adult Mortality Rate
+  2. HIV/AIDS prevalence
+  3. Income Composition of Resources
+  4. Schooling years
+- Model can help identify priority areas for healthcare investment
+- Developing nations showed highest potential for life expectancy improvement through targeted interventions
+
+Ethical Considerations:
+1. Data Bias:
+   - Potential underrepresentation of certain regions/populations
+   - Historical data may reflect existing inequalities
+
+2. Implementation Risks:
+   - Over-reliance on model predictions without expert interpretation
+   - Potential for misuse in resource allocation decisions
+
+3. Privacy:
+   - Aggregated country-level data minimizes individual privacy concerns
+   - Proper anonymization maintained
+
+4. Fairness:
+   - Model tested for equitable performance across different country statuses (Developed/Developing)
+   - Special attention given to avoid reinforcing existing health disparities
+
+The project demonstrates how machine learning can provide data-driven insights to support global health objectives while highlighting the need for careful ethical implementation.
