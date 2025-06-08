@@ -20,15 +20,15 @@ Try the app here: Life Expectancy Prediction App
 Explore the code and dataset: GitHub Repository
 
 ## Technologies Used
-    - Python
+- Python
 
-    - Pandas, NumPy
+- Pandas, NumPy
 
-    - Scikit-learn (Random Forest, Linear Regression)
+- Scikit-learn (Random Forest, Linear Regression)
 
-    - Streamlit (for deployment)
+- Streamlit (for deployment)
 
-    - Matplotlib, Seaborn (visualization)
+- Matplotlib, Seaborn (visualization)
 
 ## How to Use
 Clone the repository.
