@@ -8,18 +8,18 @@ The project uses regression algorithms like Random Forest to analyze health data
 
 ## Key Features
     1. Data Analysis: Explores health indicators and their impact on life expectancy.
-![correlation](https://github.com/user-attachments/assets/04bf1f38-5480-4181-9708-002caa5182cb)
+        ![correlation](https://github.com/user-attachments/assets/04bf1f38-5480-4181-9708-002caa5182cb)
 
-![Life expectancy by Country](https://github.com/user-attachments/assets/16268eff-7e63-403f-9334-c73a6aa41e38)
+        ![Life expectancy by Country](https://github.com/user-attachments/assets/16268eff-7e63-403f-9334-c73a6aa41e38)
 
-![Feature_importance](https://github.com/user-attachments/assets/4bd3dca2-df80-4476-a7ff-22a409658bb9)
+        ![Feature_importance](https://github.com/user-attachments/assets/4bd3dca2-df80-4476-a7ff-22a409658bb9)
 
 
 
     2. Machine Learning: Uses Random Forest and other regression models for predictions.
-![Model_Comparison](https://github.com/user-attachments/assets/cb31c7c6-fa47-40b6-ad76-585d1e2bb882)
+        ![Model_Comparison](https://github.com/user-attachments/assets/cb31c7c6-fa47-40b6-ad76-585d1e2bb882)
 
-![model_comparison_ranking](https://github.com/user-attachments/assets/b6239519-7279-47c4-a9c6-156dfeca82e8)
+        ![model_comparison_ranking](https://github.com/user-attachments/assets/b6239519-7279-47c4-a9c6-156dfeca82e8)
 
 
     3. Interactive App: Deployed on Streamlit for easy access and visualization.
