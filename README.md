@@ -14,10 +14,10 @@ The project uses regression algorithms like Random Forest to analyze health data
     3. Interactive App: Deployed on Streamlit for easy access and visualization.
 
 ## App Link
-Try the app here: Life Expectancy Prediction App
+Try the app here:[ Life Expectancy Prediction App](https://priscillanzula-life-expectancy-prediction-app-nzula-ytqg8z.streamlit.app/)
 
 ## GitHub Repository
-Explore the code and dataset: GitHub Repository
+Explore the code and dataset: [GitHub Repository](https://github.com/priscillanzula/Life-Expectancy-Prediction.git)
 
 ## Technologies Used
 - Python
