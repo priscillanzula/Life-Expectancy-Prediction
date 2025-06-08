@@ -49,8 +49,23 @@ Install the required libraries (pip install -r requirements.txt).
 Run the Streamlit app (streamlit run app.py).
 
 ## Contribution
-Feel free to contribute by opening issues or submitting pull requests. Feedback is welcome!
+
+<table>
+   <tbody>
+      <tr>
+
+<td align="center">
+        <a href="https://github.com/priscillanzula">
+          <img src="https://avatars.githubusercontent.com/u/144167777?v=4" width="100;" alt="priscillanzula"/>
+          <br />
+          <sub><b>Priscilla Nzula</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+ Feedback is welcome!
 
 ## License
-This project is open-source. See the repository for more details.
+ MIT License
 
