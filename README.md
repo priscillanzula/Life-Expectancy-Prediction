@@ -6,6 +6,10 @@ This project predicts life expectancy based on various health indicators using m
 ## Project Description
 The project uses regression algorithms like Random Forest to analyze health data, including mortality rates, immunization coverage, healthcare spending, and education levels. The goal is to forecast life expectancy across different countries, enabling better healthcare decisions and resource allocation.
 
+
+https://github.com/user-attachments/assets/ff1ab0da-119b-463e-8615-f00d04ecc483
+
+
 ## Key Features
 1. Data Analysis: Explores health indicators and their impact on life expectancy.
     
